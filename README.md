@@ -1,5 +1,7 @@
 # Сапёр
 
+![alt text](https://github.com/Maksim787/Minesweeper/blob/main/Example/Screenshot.png)
+
 # Установка
 - Скачайте main.py и Types.jpg в одну папку
 - Установите pygame с помощью pip
